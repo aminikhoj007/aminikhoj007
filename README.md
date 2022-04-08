@@ -12,3 +12,43 @@
 # <a href="backsuite">Backsuite box</a>
 
 ### &#x1F51E; Scope Dork
+- [ &#x1F608;  ] BrupSuite - Dorks with : google.com / yahoo.com / bing.com
+- [ &#x1F52D;  ] BrupSuite - Scope ending files : <b>php</b> / <b>aspx</b>
+- [ &#x1F489;  ] BrupSuite - Scan : SQL Injection 
+- [ &#x1F4C4;  ] List of Syntax <I><b>[errors]</b></I> to detect an SQL injection 
+- [ &#x274C;  ] Xss payloads 
+- [ &#x1F50D;  ] SQL injection - Characters
+- [ &#x1F51D;  ] Adding exiftool - Bypass uploading shell
+
+<hr>
+# <a href="nmap">Nmap / Curl </a>
+- `nmap options`
+- `brute`
+- `proXML`
+- `options`
+- `Put`
+- `Curl` 
+
+# <a href="cmd">CMD / Terminal / Other </a>
+- `vpn`
+- `bing.com`
+- `sslscan`
+- `tcpdum`
+- `anycmd`
+- `iptable` 
+
+# <a href="apt">APT / PIP Commands / Crunch / Dos </a>
+- `ADD Kali`
+- `ADD DarkTools`
+- `Crunch`
+- `AnyCMD`
+- `After format` 
+
+# <a href="msf">MSF / IP(forward) / msfVenom </a>
+- `msfvenom`
+- `ip forward`
+- `auxiliary`
+- `MSF` 
+
+# <a href="notes">NOT3z </a>
+- `Garbag not3z`
